@@ -1,4 +1,4 @@
-# Thinfoil-Hat-Linux-ReMake
+# Tinfoil-Hat-Linux-ReMake
 The remake of THL. Most secure Linux Distro ever...will come back again.
 
 This Os is heavielly based off thinfoil hat linux (THL), all credits goes to the shmoo group.
