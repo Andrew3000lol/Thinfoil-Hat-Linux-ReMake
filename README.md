@@ -16,3 +16,6 @@ Co-owner of this project is andrei3000lol
 
 Thanks for support if there will be anything, project started on april 12 2026.
 This is a non profitable project, no we dont have any donation site (for now, at least)
+
+
+Fly me to the moon. -Andrei3000lol
