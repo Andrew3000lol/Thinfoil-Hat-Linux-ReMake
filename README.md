@@ -5,6 +5,8 @@ This Os is heavielly based off tinfoil hat linux (THL), all credits goes to the 
 
 here comes the link to the tinfoil hat Os (https://web.archive.org/web/20120118005025/http://tinfoilhat.shmoo.com/), yes its in archive.org because the official site got taken down years ago.
 
+We are using https://github.com/luvettee/boberbob229.github.io as our main source of THL code, also the web archive.org site
+
 # ALL CREDITS GOES TO THE SHMOO GROUP
 
 Owner of the project: P (/root/p/)
